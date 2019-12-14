@@ -13,3 +13,5 @@ def say_hi(ary)
   end
 
 end
+
+say_hi(names)
