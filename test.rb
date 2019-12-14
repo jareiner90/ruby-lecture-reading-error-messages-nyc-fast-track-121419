@@ -1,8 +1,7 @@
 name = "John Reiner"
 
-puts name 
+puts name
 
 name = "Carl Reiner"
 
-puts name 
-
+puts name
