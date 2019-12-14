@@ -4,4 +4,4 @@ puts name
 
 name = "Carl Reiner"
 
-puts `Hello #{name}!`
+puts "Hello #{name}!"
