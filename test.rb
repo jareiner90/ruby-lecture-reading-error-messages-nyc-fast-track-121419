@@ -10,4 +10,6 @@ names = ["John", "Carl", "Patrick"]
 
 def say_hi(ary)
   ary.each do {|name| "Hello! #{name}"}
+  end
+  
 end
